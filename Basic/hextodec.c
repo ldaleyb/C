@@ -1,4 +1,4 @@
-/*Lauren Brackin CS100 Lab2-1
+/*
 This lab converts a hex number scanned in string format) to decimal format.
 User won't be prompted so after ./a (enter) just enter the hex number.
 User can enter up to an 8 digit hex number to be converted.
