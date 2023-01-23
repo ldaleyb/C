@@ -1,4 +1,4 @@
-/*Lauren Brackin CS100 Lab2-2
+/*
 Takes user input string and determines if it is a palindrome
 Example input : tacocat
         output: is a palindrome
