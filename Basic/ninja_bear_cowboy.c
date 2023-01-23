@@ -1,4 +1,4 @@
-/*Lauren Brackin CS100 Lab1-2
+/*
 This game is like rock, paper, scissors with the following rules: 
 1. ninja beats cowboy
 2. cowboy beats bear
