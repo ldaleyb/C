@@ -1,4 +1,4 @@
-/* Lauren Brackin CS100 Lab1-3
+/*
 User inputs 4 exam scores in integer format
 The average of the highest three scores is returned 
 This was done using two different methods.
