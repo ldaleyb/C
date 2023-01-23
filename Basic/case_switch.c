@@ -1,4 +1,4 @@
-/* Lauren Brackin CS100 Lab1-1
+/* 
 Prompts user for month and day (both in integer format)
 and returns the date along with the day of the year
 Example input: 1 12
