@@ -1,4 +1,4 @@
-/*Lauren Brackin CS 100 Lab0
+/*
 This lab calculates distance walked given start and end times.
 Must input time in hh:mm format using 
 military time.
