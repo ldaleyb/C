@@ -1,0 +1,23 @@
+TV City
+Office: Dunder Mifflin Utica (10)
+-----
+TV City
+Office: Dunder Mifflin Scranton (19), Dunder Mifflin Utica (10)
+-----
+TV City
+Food and Drink: Jasmine Dragon (7)
+Gas: Empty
+Hospitals: Princeton-Plainsboro Teaching Hospital (8672), Seattle Grace Hospital (6824)
+Office: Dunder Mifflin Scranton (19), Dunder Mifflin Utica (10)
+-----
+TV City
+Gas: Empty
+Hospitals: Princeton-Plainsboro Teaching Hospital (8672), Seattle Grace Hospital (6824)
+Office: Dunder Mifflin Scranton (19), Dunder Mifflin Utica (10)
+-----
+TV City
+Gas: Empty
+Hospitals: Seattle Grace Hospital (6824)
+Office: Dunder Mifflin Scranton (19), Dunder Mifflin Utica (10)
+-----
+Number of very small office businesses: 1
