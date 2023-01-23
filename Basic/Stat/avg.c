@@ -1,5 +1,4 @@
-//Lauren Brackin
-//CS 100 Lab0 
+
 //computes the avgerage of 4 numbers
 //example data that can be entered  3 2 2 1 OR 3 (enter) 2 (enter) 2 (enter) 1 (enter)
 //to compile gcc avg.c 
