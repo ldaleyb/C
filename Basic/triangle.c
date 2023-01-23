@@ -1,4 +1,4 @@
-/*Lauren Brackin CS100 Lab2-3
+/*
 Program that takes user input in the form of an integer (n) and prints 
 an upside down triangle with each row starting at n number of points 
 with the next row containing n-1 points and so on until n=1
